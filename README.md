@@ -1,3 +1,5 @@
+# NOTE: THIS IS A FORK OF TUIMOJI PRIMARILY INTENDED TO PROVIDE A MORE UPDATED EMOJI LIST. IT IS NOT USABLE YET, HENCE WHY THE README IS OTHERWISE UNCHANGED
+
 # tuimoji
 
 tuimoji is a terminal based emoji chooser for \*nix. With tuimoji you
